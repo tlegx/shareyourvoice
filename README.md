@@ -1,7 +1,7 @@
 # shareyourvoice
 A super simple Android app that uses Bravobit's FFmpeg-Android to create videos from audios
 ## How to use
-Simply select an image/audio file from your device and let the app do the rest for you. This app uses FFmpeg's loop option to "convert" the image file to an video file and append the audio file to it.
+Simply select an image/audio file from your device and let the app do the rest for you. This app uses FFmpeg's loop option to "convert" the image file to a video file and append the audio file to it.
 ## Screenshots
 ![Main screen](https://github.com/tlegx/shareyourvoice/blob/main/demo/Screenshot%202021-06-09%20171452.png) ![Warning screen](https://github.com/tlegx/shareyourvoice/blob/main/demo/Screenshot%202021-06-09%20171532.png) 
 ![Loading screen](https://github.com/tlegx/shareyourvoice/blob/main/demo/Screenshot%202021-06-09%20171613.png) ![Player scree](https://github.com/tlegx/shareyourvoice/blob/main/demo/Screenshot%202021-06-09%20171748.png)
