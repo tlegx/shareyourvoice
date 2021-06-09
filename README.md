@@ -14,4 +14,8 @@ Simply select an image/audio file from your device and let the app do the rest f
 Thanks to these amazing people with their amazing repositories to make this app possible:
 - [Bravobit](https://github.com/bravobit) with [FFmpeg-Android fork](https://github.com/bravobit/FFmpeg-Android)
 - [hiteshsondhi88](https://github.com/hiteshsondhi88) with [FFmpeg-Android-Java](https://github.com/WritingMinds/ffmpeg-android-java)
+## License
+MIT License
 
+Copyright (c) 2021 tlegx<br/>
+For more information, please see [LICENSE](https://github.com/tlegx/shareyourvoice/blob/main/LICENSE)
