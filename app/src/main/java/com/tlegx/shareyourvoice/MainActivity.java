@@ -210,10 +210,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 //Check if the user has selected the required components. If not, warn the user. If selected, run FFmpeg to make video.
                 if (audioSelected && imageSelected){
-                    //Intent i = new Intent(getApplicationContext(), VideoPlay.class);
-                    //i.putExtra("toActivity2", toActivity2);
-                    //startActivity(i);
-
                     if (FFmpeg.getInstance(getApplicationContext()).isSupported()){
                         //Get date and time from the system
                         SimpleDateFormat format = new SimpleDateFormat("dd_MM_yyyy_hh_mm_ss");
