@@ -1,5 +1,5 @@
 # shareyourvoice
-![Workflow](https://github.com/tlegx/shareyourvoice/actions/workflows/codeql-analysis.yml/badge.svg)</br>
+[![CodeQL](https://github.com/tlegx/shareyourvoice/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/tlegx/shareyourvoice/actions/workflows/codeql-analysis.yml)</br>
 A super simple Android app that uses Bravobit's FFmpeg-Android to create videos from audios
 ## How to use
 Simply select an image/audio file from your device and let the app do the rest for you. This app uses FFmpeg's loop option to "convert" the image file to a video file and append the audio file to it.
